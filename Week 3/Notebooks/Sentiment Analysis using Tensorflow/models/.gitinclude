@@ -1,0 +1,5 @@
+This folder contains all AI model-related files.
+
+All .pkl,.png,.txt,.json,.h5,.hdf5 in this folder are automatically ignored in git.
+
+Any files other than the formats above must be added in .gitignore if you use other file-formats for AI-related models.
